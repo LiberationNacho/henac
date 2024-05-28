@@ -14,8 +14,7 @@ body {
 table {
     margin-top: 20px;
     border-collapse: collapse;
-    width: 50%;
-    margin: auto;
+    width: 10%;
 }
 
 /* 테이블 헤더와 셀 스타일 */
