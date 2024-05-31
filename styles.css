@@ -26,7 +26,8 @@ th, td {
 
 /* 테이블 헤더 배경 색상 */
 th {
-    background-color: #f2f2f2;
+    background-color: #4151ff;
+    font-weight: bold; /* 테이블 헤더 볼드체 */
 }
 
 /* 이탤릭체 스타일 */
@@ -38,19 +39,20 @@ th {
 /* 큰 글씨 스타일 */
 .large-text {
     font-size: 1.5em;
-    color: #4682b4;
+    color: #000000;
 }
 
 /* 첫 번째 배경색 */
 .background1 {
-    background-color: #fafafa;
+    background-color: #e0e7ff; /* 밝은 파란색 */
     padding: 20px;
 }
 
 /* 두 번째 배경색 */
 .background2 {
-    background-color: #f0f8ff;
+    background-color: #cfe2ff; /* 더 밝은 파란색 */
     padding: 20px;
+    text-align: left;
 }
 
 /* 검색엔진 이미지 스타일 */
